@@ -1,0 +1,12 @@
+numpy
+pandas
+pyarrow
+openpyxl
+scikit-learn
+lightgbm
+xgboost
+optuna
+kagglehub
+matplotlib
+scipy
+torch
